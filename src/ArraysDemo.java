@@ -12,7 +12,7 @@ public class ArraysDemo {
 		arr[1] = new Integer(20); // Autoboxing
 		arr[3] = 30;
 
-		System.out.println("elements of the array: ");
+		System.out.println("elements of the array are: ");
 
 //		for (int i = 0; i < arr.length; i++) {
 //			System.out.println(arr[i]);
